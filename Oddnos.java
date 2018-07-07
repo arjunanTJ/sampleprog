@@ -14,6 +14,6 @@ class Oddnos{
 			}
 		}
 		else 
-			System.out.println("range insufficient");
+			System.out.println("invalid input");
 	}
 }
